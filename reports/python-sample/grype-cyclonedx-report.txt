@@ -1,0 +1,6 @@
+NAME        INSTALLED  FIXED IN  TYPE    VULNERABILITY        SEVERITY  EPSS           RISK   
+setuptools  58.0.4     70.0.0    python  GHSA-cx63-2mw6-8hw5  High      4.9% (89th)    4.0    
+setuptools  58.0.4     65.5.1    python  GHSA-r9hx-vwmv-q579  High      0.5% (63rd)    0.3    
+setuptools  58.0.4     78.1.1    python  GHSA-5rjg-fvgr-3xxf  High      0.1% (34th)    0.1    
+pip         21.2.4     23.3      python  GHSA-mq26-g339-26xf  Medium    < 0.1% (23rd)  < 0.1  
+pip         21.2.4     25.3      python  GHSA-4xh5-x5gv-qwph  Medium    < 0.1% (4th)   < 0.1
